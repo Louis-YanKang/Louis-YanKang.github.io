@@ -1,7 +1,7 @@
 ---
 title: "Ookami Deployment and Initial Experiences"
 collection: publications
-permalink: 
+permalink: /publication/2015-10-01-paper-title-number-3
 date: 2021-6-16
 venue: 'PEARC '21: Practice and Experience in Advanced Research Computing, July 18--22, 2021, Boston, MA, USA'
 paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://arxiv.org/pdf/2106.08987.pdf)'
