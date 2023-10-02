@@ -1,7 +1,7 @@
 ---
 title: "EdgePC: Efficient Deep Learning Analytics for Point Clouds on Edge Devices"
 collection: publications
-permalink: [/publication/2015-10-01-paper-title-number-3](https://dl.acm.org/doi/10.1145/3579371.3589113)
+permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2015-10-01
 venue: 'Journal 1'
