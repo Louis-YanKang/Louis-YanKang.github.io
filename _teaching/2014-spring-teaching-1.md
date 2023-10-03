@@ -1,5 +1,5 @@
 ---
-title: "CMPSC-132"
+title: "CMPSC-132 Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
