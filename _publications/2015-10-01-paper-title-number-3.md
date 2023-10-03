@@ -1,11 +1,11 @@
 ---
-title: "EdgePC: Efficient Deep Learning Analytics for Point Clouds on Edge Devices"
+title: "Ookami: Deployment and Initial Experiences"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
+excerpt: ''
+date: 2021-07-16
+venue: 'PEARC21: Practice and Experience in Advanced Research Computing, July 18--22, 2021, Boston, MA, USA'
 paperurl: 'https://arxiv.org/abs/2106.08987'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'Burford, A., Calder, A., Carlson, D., Chapman, B., Coskun, F., Curtis, T., Feldman, C., Harrison, R., Kang, Y., Michalowicz, B. and Raut, E. (2021). &quot;Ookami: Deployment and Initial Experiences.&quot; <i>PEARC'21</i>.'
 ---
 
