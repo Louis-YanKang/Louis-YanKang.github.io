@@ -1,14 +1,14 @@
 ---
 title: "CMPSC-101 Teaching Assistant"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "The Penn State University, Computer Science and Engineering"
+date: 2023-08-23
+location: "State College, PA, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course introduces the fundamental concepts and processes of solving computational problems through the design, implementation, testing, and evaluation of basic computer programs. The concepts include basic computational constructs such as calculation, iteration, conditions, functions, and data types.
 
 Heading 1
 ======
