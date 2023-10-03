@@ -1,15 +1,11 @@
 ---
-title: "Ookami: Deployment and Initial Experiences"
+title: "EdgePC: Efficient Deep Learning Analytics for Point Clouds on Edge Devices"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
-date: 2021-07-16
-venue: 'PEARC21: Practice and Experience in Advanced Research Computing, July 18-22, 2021, Boston, MA, USA'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2023-06-17
+venue: 'ISCA23: Proceedings of the 50th Annual International Symposium on Computer Architecture, Orlando, FL, USA'
+paperurl: 'https://dl.acm.org/doi/10.1145/3579371.3589113'
+citation: 'Ying, Ziyu and Bhuyan, Sandeepa and Kang, Yan and Zhang, Yingtian and Kandemir, Mahmut T. and Das, Chita R. (2023). &quot;EdgePC: Efficient Deep Learning Analytics for Point Clouds on Edge Devices&quot; <i>ISCA23</i>.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
