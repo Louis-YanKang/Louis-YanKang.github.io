@@ -1,6 +1,6 @@
 ---
 title: "Badminton Enthusiast"
-excerpt: "Yan was in training with his Coah Mr.Wei <br/><img src='/images/500x300.png'>"
+excerpt: "Yan was in training with his Coah Mr.Wei <br/><img src='/images/badminton.jpg'>"
 collection: portfolio
 ---
 
